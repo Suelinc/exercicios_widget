@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/stone_fragments/BuildConfig.java
+ com.example.stone_fragments.BuildConfig

@@ -1,0 +1,4 @@
+#Mon Jun 20 18:29:28 BRT 2022
+base.0=C\:\\Users\\sueli\\OneDrive\\Documents\\curso_FLUTTER\\Modulo_2\\exercicios\\exercicios_widget\\Stone_Fragments\\stone_fragments\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
